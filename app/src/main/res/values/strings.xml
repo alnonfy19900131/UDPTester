@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UDP_Tester</string>
+    <string name="version">1.0.0</string>
+
+    <string name="enter">Enter</string>
+    <string name="refresh">Refresh</string>
+    <string name="toast_network_error">Network Error !</string>
+
+    <string name="ip_addr">IP Addr:</string>
+    <string name="ip_port">PORT:</string>
+    <string name="ip_edit_hint">Please Input Ip Address</string>
+    <string name="port_edit_hint">Please Input Port!</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="msg_list">Msg List</string>
+
+    <string name="send_hint">Please Input Msg!</string>
+    <string name="send">Send</string>
+
+    <string name="toast_ip_is_null">IP Address is Null !</string>
+    <string name="toast_ip_is_broadcast">IP Address is Broadcast !</string>
+    <string name="toast_ip_is_multicast">IP Address is Multicast !</string>
+    <string name="toast_is_not_ip_address">Ip Address is Wrong!</string>
+    <string name="toast_port_is_null">Port is Null !</string>
+    <string name="toast_is_not_port">Port is Wrong !</string>
+    <string name="toast_msg_is_null">Message is Null !</string>
+    <string name="toast_msg_communication_start">Communication is Ready !</string>
+    <string name="toast_msg_is_not_start">Communication is not Ready !</string>
+</resources>

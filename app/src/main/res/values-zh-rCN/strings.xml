@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UDP测试工具</string>
+    <string name="version">1.0.0</string>
+
+    <string name="toast_network_error">网路错误，未发现网络接口！</string>
+
+    <string name="enter">进  入</string>
+    <string name="refresh">刷 新</string>
+
+
+    <string name="ip_addr">IP地址:</string>
+    <string name="ip_port">端口号:</string>
+    <string name="ip_edit_hint">请输入IP地址</string>
+    <string name="port_edit_hint">请输入端口号!</string>
+
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+
+    <string name="msg_list">信 息 内 容</string>
+
+    <string name="send_hint">请输入信息！</string>
+    <string name="send">发送</string>
+
+    <string name="toast_ip_is_null">IP地址栏为空！</string>
+    <string name="toast_ip_is_broadcast">目标IP为广播地址！</string>
+    <string name="toast_ip_is_multicast">目标IP为组播地址！</string>
+    <string name="toast_is_not_ip_address">Ip地址错误！</string>
+    <string name="toast_port_is_null">端口号为空！</string>
+    <string name="toast_is_not_port">端口号错误！</string>
+    <string name="toast_msg_is_null">信息输入栏为空！</string>
+    <string name="toast_msg_communication_start">通信已启动！</string>
+    <string name="toast_msg_is_not_start">通信尚未启动 !</string>
+
+</resources>
